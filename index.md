@@ -1,1 +1,226 @@
 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html
+   xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
+      <title>BRW-testrequest</title>
+      <meta http-equiv="content-language" content="pl" />
+      <meta name="description" content="The HTML5 mailing">
+      <meta name="keywords" content="test, junior-webdeveloper, BRW, Sales, Atumn" />
+      <meta name="author" content="Mateusz Cieślakowski">
+      <meta name="robots" content="index, follow" />
+   </head>
+   <body style="margin: 0; padding: 0; text-align: center;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" height="auto" >
+         <table align="center" border="0" cellpadding="0" cellspacing="0" width="640" height="auto">
+            <td style="width=640px; text-align: center;">
+               <a href="https://ibb.co/Nt2hMtR">
+               <img  src="https://i.ibb.co/vV45SV9/banner.png" alt="banner" border="0">
+               </a>
+            </td>
+         </table>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" >
+         <table  align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+            <tr>
+               <td style="text-align: center; width: 35%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/L0WvZ9Y/clock.png" alt="clock" border="0">
+                  </a>
+               </td>
+               <td style=" width: 2%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/2Kg5tY3/arrowleft.png" alt="arrowleft" border="0">
+                  </a>
+               </td>
+               <td   style="background-color:#f5f5f5; width: 63%; text-align:left;  ">
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/7R3LKY5/clockprice.png" alt="clockprice" border="0">
+                  </a>
+                  <p style="text-align:center; border: 1px solid #BF1414; width: 80px; padding: 8px; background-color: #BF1414; color: white; margin:10px 0 10px 15px;">Sprawdź</p>
+               </td>
+            </tr>
+         </table>
+         <table  align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+            <tr>
+               <td style="background-color:#f5f5f5; width: 63%; text-align:left;  ">
+                  <a href="https://imgbb.com/">
+                  <img  src="https://i.ibb.co/bFD3pzb/pillowprice.png" alt="pillowprice" border="0">
+                  </a>
+                  <p style="text-align:center; border: 1px solid #BF1414; width: 80px; padding: 8px; background-color: #BF1414; color: white; margin:10px 0 10px 15px;">Sprawdź</p>
+               </td>
+               <td style=" width: 2%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/GxMdrqQ/arrowright.png" alt="arrowright" border="0">
+                  </a>
+               </td>
+               <td style="text-align: center; width: 35%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/3smrBMk/pillow.png" alt="pillow" border="0">
+                  </a>
+               </td>
+            </tr>
+         </table>
+         <table  align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+            <tr>
+               <td style="text-align: center; width: 35%;" >
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/VJHQFqx/towel.png" alt="towel" border="0"></a>
+               </td>
+               <td style=" width: 2%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/2Kg5tY3/arrowleft.png" alt="arrowleft" border="0">
+                  </a>
+               </td>
+               <td  style="background-color:#f5f5f5; width: 63%; text-align:left;  ">
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/1rpt8y1/towelprice.png" alt="towelprice" border="0"></a>
+                  <p style="text-align:center; border: 1px solid #BF1414; width: 80px; padding: 8px; background-color: #BF1414; color: white; margin:10px 0 10px 15px;">Sprawdź</p>
+               </td>
+            </tr>
+         </table>
+         <table  align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+            <tr>
+               <td style="background-color:#f5f5f5; width: 63%;text-align:left;  ">
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/F6DGwYY/mirrorprice.png" alt="mirrorprice" border="0"></a>
+                  <p style="text-align:center; border: 1px solid #BF1414; width: 80px; padding: 8px; background-color: #BF1414; color: white; margin:10px 0 10px 15px;">Sprawdź</p>
+               </td>
+               <td style=" width: 2%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/GxMdrqQ/arrowright.png" alt="arrowright" border="0">
+                  </a>
+               </td>
+               <td style="text-align: center; width: 35%;" >
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/CWXXZC2/mirror.png" alt="mirror" border="0"></a>
+               </td>
+            </tr>
+         </table>
+         <table  align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+            <tr>
+               <td style="text-align: center; width: 35%;" >
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/PY20KJz/settea.png" alt="settea" border="0"></a>
+               </td>
+               <td style=" width: 2%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/2Kg5tY3/arrowleft.png" alt="arrowleft" border="0">
+                  </a>
+               </td>
+               <td   style="background-color:#f5f5f5; width: 63%; text-align: left;;  ">
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XpQwWnc/setteaprice.png" alt="setteaprice" border="0"></a>
+                  <p style="text-align:center; border: 1px solid #BF1414; width: 80px; padding: 8px; background-color: #BF1414; color: white; margin:10px 0 10px 15px;">Sprawdź</p>
+               </td>
+            </tr>
+         </table>
+         <table  align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+            <tr>
+               <td style="background-color:#f5f5f5; width: 63%; text-align: left;">
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/ns2rz4n/carpetprice.png" alt="carpetprice" border="0"></a>
+                  <p style="text-align:center; border: 1px solid #BF1414; width: 80px; padding: 8px; background-color: #BF1414; color: white; margin:10px 0 10px 15px;">Sprawdź</p>
+               </td>
+               <td style=" width: 2%;" >
+                  <a href="https://imgbb.com/">
+                  <img src="https://i.ibb.co/GxMdrqQ/arrowright.png" alt="arrowright" border="0">
+                  </a>
+               </td>
+               <td style="text-align: center; width: 35%;" >
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/xhRJ0HC/carpet.png" alt="carpet" border="0"></a>
+               </td>
+            </tr>
+         </table>
+      </table>
+      <hr width= "650px"; color="silver">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="640" height="100%">
+         <tr>
+            <td style="text-align: left;margin:0 0 15px 15px;" >
+               <h3>Więcej dodatków</h3>
+               <p>znajdziesz w naszej
+                  <br />
+                  najnowszej gazetce
+                  <br />
+               </p>
+               <p style="border: 1px solid #BF1414; width: 120px; padding: 8px; background-color: #BF1414; color: white; ;">ZOBACZ TERAZ</p>
+            </td>
+            <td>
+               <a href="https://imgbb.com/"><img src="https://i.ibb.co/FgHspfh/newspapper.png" alt="promonewspapper" border="0"></a>
+            </td>
+         </tr>
+         <table align="center" border="0" cellpadding="0" cellspacing="0" width="640" height="100%">
+            <tr style="width: 100%" >
+               <td style="">
+                  <p style="border: 1px solid #BF1414; width:85%; padding: 8px; background-color: #BF1414; color: white; ">ZOBACZ POZOSTAŁE PRODUKTY W PROMOCJI</p>
+               </td>
+            </tr>
+         </table>
+      </table>
+      <hr width="650px" />
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="640px" height="100%">
+         <tr>
+            <td style="width:40%;">
+               <h1 style="color:#BF1414; float: left; font-weight:800;"><b> Social Media</b></h1>
+            </td>
+            <td colspan="2" style="width: 60%">
+               <a href="https://imgbb.com/"><img src="https://i.ibb.co/C9mf5Jk/facebook.png" alt="facebookicon" border="0"></a>
+               <a href="https://imgbb.com/"><img src="https://i.ibb.co/rpzzdsc/instagram.png" alt="instagramicon" border="0"></a>
+               <a href="https://imgbb.com/"><img src="https://i.ibb.co/4srWsT0/pinterest.png" alt="pinteresticon" border="0"></a>
+               <a href="https://imgbb.com/"><img src="https://i.ibb.co/12KkQr3/youtube.png" alt="youtubeicon" border="0"></a>
+               <a href="https://imgbb.com/"><img  src="https://i.ibb.co/VDzt6Cc/brand1.png" alt="brand1icon" border="0"></a>
+               <a href="https://imgbb.com/"><img  src="https://i.ibb.co/S065F7B/brand2.png" alt="brand2icon" border="0"></a>
+            </td>
+         </tr>
+         <table align="center" border="0" cellpadding="0" cellspacing="0" width="640px" height="100%">
+            <td width="100%" >
+               <p style="text-align: justify; color: #87868c;">Oferta promocyjna "Jesienne dodatki" obowiązuje od 2.11 do 02.12.2019r. albo do wyczerpania zapasów. 
+                  Oferta dotyczy wybranego asortymentu objętego promocją "Jesienne dodatki" i obowiązuje w wybranych 
+                  salonach oraz na 
+                  <a href="www.brw.pl">www.brw.pl</a> Podane ceny są maksymalnymi cenami sugerowanymi.
+                  Niniejsza informacja nie stanowi oferty w rozumieniu kodeksu cywilnego i ma charakter wyłącznie informacyjny.
+               </p>
+            </td>
+         </table>
+         </tr>
+      </table>
+      <hr width="650px" />
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="640" height="100%" ;>
+         <tr>
+            <td style="width=70%; ">
+               <p style="text-align: left;">&copy; 
+                  <b>2019 Black Red White, Wszystkie prawa zastrzeżone.</b>
+               </p>
+            </td>
+            <td colspan="2" style="width:30 %; text-align: right; ">
+               <a style="margin:10px 20px; 0 0"  href="https://imgbb.com/"><img src="https://i.ibb.co/CtcsHd4/logo.png" alt="logo" border="0"></a>
+               <p>Robimy Dom</p>
+            </td>
+         </tr>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="640" height="100%">
+         <hr width=700px; />
+         <tr>
+            <td width="100%" height="100%">
+               <p style="text-align: center; font-family:Arial , sans-serif">
+                  <small> Red White S.A ul.Krzeszowska 63, 23-400 Biłgoraj
+                  <br /> 
+                  NIP 918-17-45-428, KRS Nr 000000089493,
+                  <br /> 
+                  Sąd Rejonowy Lublin-Wschód w Lublinie z siedzibą w Świdniku 
+                  <br /> 
+                  VI Wydział Gospodarczy KRS, Kapitał Zakładowy 15659816,00 zł 
+                  <br />
+                  <br /> 
+                  Ta Wiadomość została wysłana ponieważ Twój adres e-mail znajduje się w bazie newslettera
+                  <br /> 
+                  Black Red White.
+                  <br /> 
+                  Jeśli chcesz zrezygnować. Użyj 
+                  <a href="#">
+                  <ins>tego linka</ins>
+                  </a>
+                  </small>
+               </p>
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>
